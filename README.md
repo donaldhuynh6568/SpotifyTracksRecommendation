@@ -1,11 +1,10 @@
 #OVERVIEW
 
-I love discovering new music through my network of fellow music lovers. It is a similar feeling when you are able to share your enjoyment of a track from your library with another user. In this project, I utilize a recommendation algorithm that gives me song recommendations from another user's playlist library on Spotify.
+I love discovering new music, whether it is from digging through Spotify playlists or getting recommendations from fellow music lover. I also love to share my music with listeners that I think would enjoy the song. In this project, I utilize a recommendation algorithm that gives me song recommendations from another user's playlist library on Spotify.
 
 This repository walks you through everything I did to build the algorithm:
 
-1. Created a data pipeline to construct a dataset of songs to use as song recommendations by using Spotify's API to gather the tracks from the first 50 playlists of another user.
-2. Scraped my songs in my library to base the recommender on by using Spotify's API
-3. Explored my song data to understand my music preference and history
-4. Developed a classification algorithm with xx% accuracy to use to recommend songs
-5. Saved recommended songs from the algorithm to a Spotify playlist within the my account
+1. Create a data pipeline by using Spotify's API to scrape tracks from the playlists of my own library, another user's library, and under a Spotify genre.
+2. Explore the track data from my library to find insights on my music preference and history
+3. Develop a classification algorithm with xx% accuracy to recommend songs
+4. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
