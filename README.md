@@ -8,3 +8,8 @@ This repository walks you through everything I did to build the algorithm:
 2. Explore the track data from my library to find insights on my music preference and history
 3. Develop a classification algorithm with xx% accuracy to recommend songs
 4. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
+
+
+REFERENCES
+
+https://medium.com/geekculture/how-to-find-new-songs-on-spotify-using-machine-learning-d99bd8855a18
