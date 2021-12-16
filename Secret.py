@@ -11,4 +11,4 @@ clientSecret = "your secret here"
 
 redirectUri= "https%3A%2F%2Fgoogle.com%2F"
 
-userID='c0wmilker247'
+userID="your spotify user ID here"
