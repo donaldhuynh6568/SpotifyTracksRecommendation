@@ -1,14 +1,12 @@
-#OVERVIEW
+OVERVIEW
 
-I love discovering new music, whether it is from digging through Spotify playlists or getting recommendations from fellow music lover. I also love to share my music with listeners that I think would enjoy the song. In this project, I utilize a recommendation algorithm that gives me song recommendations from another user's playlist library on Spotify.
+One hobby that I regularly enjoy is music discovery, whether it is digging through Spotify playlists or asking a friend about a song playing at a party. In this repository, I perform exploratory data analysis on my Spotify streaming data from November 2020 - November 2021. I also build a recommendation model that looks through another Spotify user's playlists to produce song recommendations.
 
-This repository walks you through everything I did to build the algorithm:
+This repository walks through everything I did to build the model:
 
-1. Create a data pipeline by using Spotify's API to scrape tracks from the playlists of my own library, another user's library, and under a Spotify genre.
-2. Explore the track data from my library to find insights on my music preference and history
-3. Develop a classification algorithm with xx% accuracy to recommend songs
-4. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
-
+1. Create a data pipeline by using Spotify's API to scrape tracks from playlists, specifically from my own library, another user's library, and a genre of my choosing.
+2. Develop a classification algorithm with xx% accuracy to recommend songs
+3. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
 
 REFERENCES
 
