@@ -7,6 +7,7 @@ This repository walks through everything I did to build the model:
 1. Create a data pipeline by using Spotify's API to scrape tracks from playlists, specifically from my own library, another user's library, and a genre of my choosing
 2. Develop a classification algorithm with 83% accuracy to recommend songs
 3. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
+4. I also explore my streaming data to find insights and trends on how I listen to music
 
 REFERENCES
 
