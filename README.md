@@ -5,8 +5,8 @@ One hobby that I regularly enjoy is music discovery, whether it is digging throu
 This repository walks through everything I did to build the model:
 
 1. Create a data pipeline by using Spotify's API to scrape tracks from playlists, specifically from my own library, another user's library, and a genre of my choosing
-2. Develop a classification algorithm with 83% accuracy to recommend songs
-3. Use Spotify's API to saved recommended songs from the algorithm to a Spotify playlist which is posted to my Spotify profile
+2. Develop and test a classification algorithms with the best one having an F1 score of 91%
+3. Use Spotify's API to populate the recommended songs into a Spotify playlist on my profile
 4. I also explore my streaming data from November 2020 to November 2021 to find insights and trends on how I listen to music
 
 REFERENCES
